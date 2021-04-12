@@ -1,6 +1,6 @@
 spring:
   datasource:
-    url: jdbc:postgresql://database-6ba7d894-a618-487b-b1dd-4ca9d96abe6a.dyn.mayope.net:5432/my?user=postgres&password=password&sslmode=require&ssltermination=proxy
+    url: jdbc:postgresql://database-e874374f-6547-40ab-ac7a-2742f7938268.dyn.mayope.net:5432/lukas-test?user=postgres&password=cdBYxd5uuUOxKa4DPgqc&sslmode=require&ssltermination=proxy
   jpa:
     hibernate:
       ddl-auto: update
